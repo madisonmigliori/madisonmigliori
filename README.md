@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madisonmigliori
 - 👀 I’m interested in expanding my skillset to help support user experience through app development, web development, and game development.
 - 🌱 I’m currently furthering my skillset in Java, HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on projects that enhance the user experince and accessibility.
+- 💞️ I’m looking to collaborate on projects that enhance the user experience and accessibility.
 - 📫 How to reach me madison.migliori@gmail.com
 
 <!---
