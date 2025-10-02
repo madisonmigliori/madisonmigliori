@@ -1,8 +1,9 @@
 # Hi, I’m Madison 
 
 **Software Engineer** with experience in **full-stack development**, **cloud-native systems**, and **software architecture research**.  
-**Preparing for graduate study** in **audio programming (2026)** — exploring the intersection of software engineering and creative technology.
-**Currently seeking full-time opportunities** in software engineering, dev tools, and systems design.  
+
+- **Preparing for graduate study** in **audio programming (2026)** — exploring the intersection of software engineering and creative technology.
+- **Currently seeking full-time opportunities** in software engineering, dev tools, and systems design.  
 - B.S. Software Engineering, University of Arizona (Aug 2025)
 - Based in Austin, TX | madison.migliori@gmail.com  
 
