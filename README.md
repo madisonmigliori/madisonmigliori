@@ -54,10 +54,3 @@ I’m looking to collaborate on:
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![Madison's GitHub stats](https://github-readme-stats.vercel.app/api?username=madisonmigliori&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madisonmigliori&layout=compact&theme=radical)
-
-</details>
