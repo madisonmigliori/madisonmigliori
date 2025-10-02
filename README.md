@@ -1,12 +1,14 @@
-# Hi, I’m Madison 👋
+# Hi, I’m Madison 
 
-💻 **Software Engineer** with experience in **full-stack development**, **cloud-native systems**, and **software architecture research**.  
-🎓 B.S. Software Engineering, University of Arizona (Aug 2025) — GPA: 3.7  
-🌍 Based in Austin, TX | 📫 madison.migliori@gmail.com  
+**Software Engineer** with experience in **full-stack development**, **cloud-native systems**, and **software architecture research**.  
+**Preparing for graduate study** in **audio programming (2026)** — exploring the intersection of software engineering and creative technology.
+**Currently seeking full-time opportunities** in software engineering, dev tools, and systems design.  
+- B.S. Software Engineering, University of Arizona (Aug 2025)
+- Based in Austin, TX | madison.migliori@gmail.com  
 
 ---
 
-## 🔭 Current Focus
+## Work Experience 
 - **Research Intern @ University of Oulu, Finland (NSF-IRES)**  
   Reconstructing software architecture in open-source microservices using LLMs.  
   Building RAG pipelines with Java, Spring AI, Chroma VectorStore, and Ollama embeddings.  
@@ -18,16 +20,16 @@
 
 ---
 
-## 🚀 Projects
-- 🗺 **Cloud-Native Trip Planning Platform** – Spring Boot microservices with Eureka, API Gateway, JWT, Docker, Gatling.  
-- 📊 **Job Market Signal Classification** – Logistic regression (Lasso/Ridge), feature engineering, k-fold CV.  
-- ⚙️ **Powder Conveying System** – Raspberry Pi + React + Django hardware-software integration.  
-- 💊 **Pharmacy Management System** – Django backend + static frontend, Agile sprints in Jira.  
-- 🎥 **VBSme on FPGA** – MIPS-32 processor simulation for real-time video processing on FPGA.
+## Projects
+- **Cloud-Native Trip Planning Platform** – Spring Boot microservices with Eureka, API Gateway, JWT, Docker, Gatling.  
+- **Job Market Signal Classification** – Logistic regression (Lasso/Ridge), feature engineering, k-fold CV.  
+- **Powder Conveying System** – Raspberry Pi + React + Django hardware-software integration.  
+- **Pharmacy Management System** – Django backend + static frontend, Agile sprints in Jira.  
+- **VBSme on FPGA** – MIPS-32 processor simulation for real-time video processing on FPGA.
 
 ---
 
-## 🛠 Skills
+## Skills
 **Languages:** Java, JavaScript/TypeScript, Python, C/C++, Verilog, HTML/CSS, MIPS  
 **Frameworks/Tools:** Spring Boot, React, Next.js, Node.js, Django, Prisma, Docker, Jira, Figma  
 **Data/ML:** Pandas, Numpy, Scikit-learn, Matplotlib, AWS  
@@ -36,15 +38,15 @@
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 I’m looking to collaborate on:
-- 🧭 Developer tooling & microservice architecture analysis  
-- 🎨 Projects that **enhance user experience** & accessibility  
-- 🚀 Open-source systems at the intersection of **software engineering & creativity**  
+- Developer tooling & microservice architecture analysis  
+- Projects that **enhance user experience** & accessibility  
+- Open-source systems at the intersection of **software engineering & creativity**  
 
 ---
 
-## 🌐 Connect
+## Connect
 - ✉️ [madison.migliori@gmail.com](mailto:madison.migliori@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/madisonmigliori)  
 - 💻 [GitHub](https://github.com/madisonmigliori)  
